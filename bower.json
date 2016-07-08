@@ -1,0 +1,30 @@
+{
+  "name": "array.prototype.find",
+  "version": "0.1.0",
+  "main": "index.js",
+  "homepage": "https://github.com/stowball/Array.prototype.find",
+  "authors": [
+    "Matt Stow <matt@mattstow.com>"
+  ],
+  "description": "Polyfill for Array.prototype.find()",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Array",
+    "Prototype",
+    "Find",
+    "Polyfill",
+    "Shim",
+    "ES6",
+    "ES2015"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
